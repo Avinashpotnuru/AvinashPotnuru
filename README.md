@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Avinash Potnuru
 
-<!--
-**Avinashpotnuru/AvinashPotnuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer with 4.4+ years of experience  
+🧑‍💻 Skilled in React.js, Next.js, TypeScript, Redux Toolkit  
+🎨 Passionate about building clean, scalable, and responsive UIs  
+🔧 Currently exploring advanced patterns in React & App Router  
+🌱 Learning: TanStack Table, Zustand, Server Actions
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+React, Next.js, TypeScript, Tailwind CSS, MUI, Node.js, Express.js, MongoDB, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- Email: potnuruavinash111@gmail.com
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashPotnuru&show_icons=true&theme=radical)
