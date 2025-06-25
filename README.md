@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Avinash Potnuru
 
-🚀 A passionate Frontend Developer with 4.4+ years of experience building scalable, responsive, and user-centric web applications using modern JavaScript frameworks.
+🚀 A passionate Frontend Developer with experience building scalable, responsive, and user-centric web applications using modern JavaScript frameworks.
 
 ---
 
