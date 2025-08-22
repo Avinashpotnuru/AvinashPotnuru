@@ -30,8 +30,6 @@
 ---
 
 ## 📫 Let's Connect
-
-🔗 [LinkedIn](https://www.linkedin.com/in/avinash-potnuru/)  
 📧 Email: potnuruavinash111@gmail.com  
 
 ---
