@@ -7,7 +7,7 @@
 ## 💼 Tech Stack & Skills
 
 **Frontend:**  
-#React | #Next.js | #Redux Toolkit | #React Hook Form | #Context API | #TypeScript | #JavaScript | #HTML5 | #CSS3 | #Tailwind CSS | #Material UI | #Bootstrap | #Vue.js
+#React | #Next.js | #React Native | #Redux Toolkit | #React Hook Form | #Context API | #TypeScript | #JavaScript | #HTML5 | #CSS3 | #Tailwind CSS | #Material UI | #Bootstrap | #Vue.js
 
 **Backend:**  
 #Node.js | #Express.js | #REST API
