@@ -1,8 +1,5 @@
 # Hi there 👋 I'm Avinash Potnuru
 
-<p align="center">
-  <img src="assets/profile.png" alt="Avinash Potnuru" width="140" style="border-radius:50%" />
-</p>
 
 <p align="center">
   <b>🚀 Frontend Developer</b> — building scalable, responsive & user-centric web apps with modern JavaScript frameworks.
