@@ -14,7 +14,7 @@
   <a href="mailto:potnuruavinash111@gmail.com">
     <img src="https://img.shields.io/badge/📧%20EMAIL-Contact%20Me-111827?style=for-the-badge" />
   </a>
-  <a href="https://github.com/avinash-potnuru">
+  <a href="https://github.com/Avinashpotnuru">
     <img src="https://img.shields.io/badge/💻%20GITHUB-Avinash%20Potnuru-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
