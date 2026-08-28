@@ -377,38 +377,10 @@ Build for today without breaking tomorrow.
 
 </p>
 
----
 
-# 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&center=true&vCenter=true&width=800&lines=Advanced+React+Patterns;Next.js+App+Router;TanStack+Table;Zustand;Web+Performance;Testing+%26+Clean+Architecture;n8n+Automation;AI+Agents+%26+RAG;AI-Assisted+Development" alt="Currently Learning" />
-</p>
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash-potnuru&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-potnuru&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=avinash-potnuru&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/avinash-potnuru/avinash-potnuru/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
 
 # 💻 Developer Mindset
 
