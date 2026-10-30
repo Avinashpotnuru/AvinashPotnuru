@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="100%" role="img" aria-label="GitHub snapshot: 110 contributions, 46 active days, 101 repositories, 8 stars, 14 followers, 5 day longest streak">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset=".6" stop-color="#0D1117"/><stop offset="1" stop-color="#0A161B"/></linearGradient>
+<radialGradient id="spotg"><stop offset="0" stop-color="#00C9A7" stop-opacity=".12"/><stop offset=".55" stop-color="#38BDF8" stop-opacity=".05"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0 H0 V32" fill="none" stroke="#FFFFFF" stroke-opacity=".03" stroke-width="1"/></pattern>
+<clipPath id="panel"><rect x="0.5" y="0.5" width="999" height="139" rx="20"/></clipPath>
+<style>
+text { font-family: "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+.micro { fill: #00C9A7; font-size: 8px; font-weight: 700; letter-spacing: 2.2px; }
+.meta { fill: #6E7681; font-size: 8px; font-weight: 700; letter-spacing: 1.8px; }
+.rise { animation: rise .8s cubic-bezier(.22,1,.36,1) both; }
+.fade { animation: fade .9s ease-out both; }
+@keyframes rise { 0% { opacity: 0; transform: translateY(10px); } 100% { opacity: 1; transform: translateY(0); } }
+@keyframes fade { 0% { opacity: 0; } 100% { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+</defs>
+<rect x="0.5" y="0.5" width="999" height="139" rx="20" fill="url(#bg)" stroke="#1E293B" stroke-width="1"/>
+<g clip-path="url(#panel)">
+<rect width="1000" height="140" fill="url(#grid)"/>
+<circle cx="820" cy="30" r="220" fill="url(#spotg)"/>
+</g>
+<g class="fade">
+<text class="micro" x="32" y="30">BY THE NUMBERS</text>
+<text class="meta" x="968" y="30" text-anchor="end">SNAPSHOT / OCT 2026</text>
+</g>
+<line class="fade" x1="32" y1="46" x2="968" y2="46" stroke="#17202B" stroke-width="1"/>
+<line class="fade" x1="188" y1="60" x2="188" y2="112" stroke="#17202B" stroke-width="1"/>
+<line class="fade" x1="344" y1="60" x2="344" y2="112" stroke="#17202B" stroke-width="1"/>
+<line class="fade" x1="500" y1="60" x2="500" y2="112" stroke="#17202B" stroke-width="1"/>
+<line class="fade" x1="656" y1="60" x2="656" y2="112" stroke="#17202B" stroke-width="1"/>
+<line class="fade" x1="812" y1="60" x2="812" y2="112" stroke="#17202B" stroke-width="1"/>
+<g class="rise" style="animation-delay:0s">
+<text x="110" y="88" text-anchor="middle" font-size="32" font-weight="800" letter-spacing="-0.6" fill="#00C9A7">110</text>
+<text x="110" y="110" text-anchor="middle" font-size="7.5" font-weight="700" letter-spacing="1.5" fill="#8B949E">CONTRIBUTIONS</text>
+</g>
+<g class="rise" style="animation-delay:0.07s">
+<text x="266" y="88" text-anchor="middle" font-size="32" font-weight="800" letter-spacing="-0.6" fill="#E6EDF3">46</text>
+<text x="266" y="110" text-anchor="middle" font-size="7.5" font-weight="700" letter-spacing="1.5" fill="#8B949E">ACTIVE DAYS</text>
+</g>
+<g class="rise" style="animation-delay:0.14s">
+<text x="422" y="88" text-anchor="middle" font-size="32" font-weight="800" letter-spacing="-0.6" fill="#E6EDF3">101</text>
+<text x="422" y="110" text-anchor="middle" font-size="7.5" font-weight="700" letter-spacing="1.5" fill="#8B949E">REPOSITORIES</text>
+</g>
+<g class="rise" style="animation-delay:0.21s">
+<text x="578" y="88" text-anchor="middle" font-size="32" font-weight="800" letter-spacing="-0.6" fill="#E6EDF3">8</text>
+<text x="578" y="110" text-anchor="middle" font-size="7.5" font-weight="700" letter-spacing="1.5" fill="#8B949E">STARS EARNED</text>
+</g>
+<g class="rise" style="animation-delay:0.28s">
+<text x="734" y="88" text-anchor="middle" font-size="32" font-weight="800" letter-spacing="-0.6" fill="#E6EDF3">14</text>
+<text x="734" y="110" text-anchor="middle" font-size="7.5" font-weight="700" letter-spacing="1.5" fill="#8B949E">FOLLOWERS</text>
+</g>
+<g class="rise" style="animation-delay:0.35s">
+<text x="890" y="88" text-anchor="middle" font-size="32" font-weight="800" letter-spacing="-0.6" fill="#E6EDF3">5</text>
+<text x="890" y="110" text-anchor="middle" font-size="7.5" font-weight="700" letter-spacing="1.5" fill="#8B949E">LONGEST STREAK</text>
+</g>
+</svg>

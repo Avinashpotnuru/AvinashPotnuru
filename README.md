@@ -1,421 +1,161 @@
-# 👋 Hi, I'm **Avinash Potnuru**
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;TypeScript+%7C+JavaScript+%7C+Modern+UI;Building+Scalable+%26+Responsive+Web+Applications;Automation+%7C+n8n+%7C+AI+Workflows;Clean+Code+%7C+Reusable+Components+%7C+Great+UX" alt="Typing Animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Avinash%20Potnuru&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header banner" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avinash-potnuru&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="mailto:potnuruavinash111@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20EMAIL-Contact%20Me-111827?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Avinashpotnuru">
-    <img src="https://img.shields.io/badge/💻%20GITHUB-Avinash%20Potnuru-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-React%20%7C%20Next.js-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/5%2B%20Years-Experience-7C3AED?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <i>
-    I build scalable, responsive and high-performance web applications
-    with a strong focus on clean UI, reusable architecture and great user experience.
-  </i>
-</p>
-
-<br />
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### ⚛️
-
-**Frontend**
-
-React.js
-Next.js
-TypeScript
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**UI / UX**
-
-Modern UI
-Responsive Design
-Reusable Components
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔄
-
-**Engineering**
-
-State Management
-REST APIs
-Testing
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**Automation**
-
-n8n
-AI Workflows
-API Automation
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚡ Tech Stack
-
-## 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" />
-</p>
-
-## 🖌️ UI / Styling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,figma" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-1572B6?style=for-the-badge" />
-</p>
-
-## 🔄 State Management & Forms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge" />
-</p>
-
-## 📊 Data & APIs
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RTK%20Query-593D88?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TanStack%20Table-FF4154?style=for-the-badge" />
-
-</p>
-
-## ⚙️ Backend & Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-## 🧪 Testing
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-</p>
-
-## 🛠️ Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
-
----
-
-# 🤖 Automation & AI Workflows
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Automation-2563EB?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>⚡ Connect → Automate → Process → Respond</b>
-</p>
-
-<br />
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### 🔗
-
-**Connect**
-
-APIs
-Webhooks
-Google Sheets
-Gmail
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**Automate**
-
-n8n
-Triggers
-Data Processing
-Scheduled Tasks
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Intelligence**
-
-AI Agents
-RAG
-AI Workflows
-Decision Logic
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Execute**
-
-MongoDB
-REST APIs
-Notifications
-Automated Actions
-
-</td>
-
-</tr>
-</table>
-
-<br />
-
-<p align="center">
-
-`n8n`   `Webhooks`   `REST APIs`   `Google Sheets`   `Gmail`
-
-`MongoDB`   `AI Agents`   `RAG`   `Data Transformation`
-
-</p>
-
-<br />
-
-<p align="center">
-  <i>
-    Turning manual processes into automated, connected and intelligent workflows.
-  </i>
-</p>
-
----
-
-# 🧩 Frontend Expertise
-
-<table align="center">
-
-<tr>
-
-<td width="50%">
-
-### ⚛️ React.js
-
-* Component architecture
-* Custom hooks
-* Reusable components
-* State management
-* Performance optimization
-* API integration
-
-</td>
-
-<td width="50%">
-
-### ▲ Next.js
-
-* App Router
-* SSR
-* SSG
-* ISR
-* CSR
-* SEO optimization
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📝 Forms & Validation
-
-* React Hook Form
-* Zod validation
-* Dynamic forms
-* Field arrays
-* Error handling
-* Complex validation
-
-</td>
-
-<td width="50%">
-
-### 📊 Data & APIs
-
-* TanStack Table
-* RTK Query
-* Filtering
-* Sorting
-* Pagination
-* API integration
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🔄 State Management
-
-* Redux Toolkit
-* Zustand
-* Context API
-* Client state
-* Server state
-* API caching
-
-</td>
-
-<td width="50%">
-
-### 🧪 Quality & Testing
-
-* Jest
-* React Testing Library
-* ESLint
-* Clean Code
-* Reusable Architecture
-* Cross-browser Compatibility
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💡 Development Principles
-
-<p align="center">
-
-### 🧩 Reusable
-
-Build components once.
-Reuse everywhere.
-
-   
-
-### 🚀 Fast
-
-Performance is a feature.
-
-   
-
-### 🎨 Simple
-
-Good UI should feel natural.
-
-   
-
-### 📈 Scalable
-
-Build for today without breaking tomorrow.
-
-</p>
-
-
-
-
-
-
-# 💻 Developer Mindset
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Design+with+purpose.;Build+with+clarity.;Automate+what+repeats.;Optimize+what+matters.;Keep+learning." alt="Developer Mindset" />
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:potnuruavinash111@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-Contact%20Me-00D9FF?style=for-the-badge" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00C9A7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Avinash+Potnuru;Frontend+Developer+with+5%2B+years+of+experience;React.js+%7C+Next.js+%7C+TypeScript+%7C+React+Native;Building+fast%2C+scalable+and+accessible+UIs;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
-<a href="https://github.com/avinash-potnuru">
-<img src="https://img.shields.io/badge/💻%20GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/>
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=Avinashpotnuru&label=Profile%20views&color=00C9A7&style=for-the-badge" alt="Profile views" />
+<a href="mailto:potnuruavinash111@gmail.com"><img src="https://img.shields.io/badge/Email-potnuruavinash111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Location-Srikakulam%2C%20India-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<a href="https://avinashpotnuruportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-00C9A7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 
-<br />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avinash-potnuru&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
----
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
-<p align="center">
+<div align="center">
+  <img src="assets/about-highlights.svg" width="100%" alt="Animated About panel: frontend developer with 5+ years of experience, 5 products shipped and 20% faster page loads" />
+</div>
 
-### 🚀 Build → Automate → Optimize → Repeat
+I turn product ideas and Figma files into fast, accessible, production-ready interfaces. Over the last **5+ years** I've shipped e-commerce, dashboard, booking, and mobile products with **React, Next.js, TypeScript, and React Native** — obsessing over rendering strategy, bundle size, and the interaction details that make a UI feel premium.
 
-<i>Building better interfaces and smarter workflows.</i>
+- **Focus:** Performance-first React and Next.js apps, reusable UI systems, and clean, scalable architecture.
+- **Craft:** SSR / SSG / ISR / CSR, API caching, code splitting, state management, and JWT / OAuth2 authentication.
+- **Currently exploring:** Advanced React Native patterns and frontend performance engineering.
+- **Open to:** Frontend and React Developer roles — remote or on-site.
 
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+## <img src="https://media.giphy.com/media/W5ZXSWtjQnc1vjGK1A/giphy.gif" width="28" /> Skills & Expertise
+
+<div align="center">
+
+<img src="assets/skills-animated.svg" width="100%" alt="Animated skills wall — brand icons grouped by discipline with staggered reveals, pulsing halos and a drifting spotlight" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+## <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbFTtS0n/giphy.gif" width="28" /> Roles & Responsibilities
+
+### React Developer
+
+- Designed and developed high-performance SPAs using **React.js** and **TypeScript**, focused on scalability and maintainability.
+- Implemented **Redux Toolkit** and **Context API** for state management, reducing API calls and improving responsiveness.
+- Built reusable UI components with **Tailwind CSS** and **Material UI**, accelerating feature delivery by **25%**.
+- Optimized performance via **code splitting** and **lazy loading**, yielding **20% faster load times** and better SEO.
+- Integrated **Razorpay UPI** payments securely in collaboration with backend teams.
+- Optimized API performance and **data caching** strategies with backend developers.
+- Built cross-platform mobile apps with **React Native (Expo)**, **React Query**, and Redux Toolkit.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+| :------ | :---- | :--------- |
+| **Babyshop E-Commerce Web App** | React.js · Next.js · Redux Toolkit · Tailwind CSS · Material UI | JWT auth, dynamic filtering & search, **20% faster** loads via code splitting |
+| **RC Parish Website & Dashboard** | React.js · TypeScript · Zustand · Tailwind CSS · Shadcn UI | Legacy-to-React migration, type-safe forms (RHF + Zod), SEO-optimized routing |
+| **CineWave — Movies & TV Explorer** | React Native (Expo) · TypeScript · TanStack Query · Firebase · TMDB API | Infinite queries, debounced search, FlatList virtualization, memoized rendering |
+| **Activity Tracker** | React.js · Next.js · Redux · TypeScript · Recharts | Role-based access, SSO + JWT, 20+ pixel-perfect pages, **10% fewer** API calls |
+| **Feu Restaurant Booking** | Next.js · Redux Toolkit · HTML5 · CSS3 | Slot booking with calendar availability, cart & ordering flow, responsive design |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> GitHub Analytics
+
+<div align="center">
+
+<img width="100%" src="assets/contributions.svg" alt="Animated contribution heatmap: 110 contributions in the last year, 46 active days, longest streak 5 days" />
+
+<br/>
+
+<img width="100%" src="assets/stats.svg" alt="GitHub snapshot: 110 contributions, 46 active days, 101 repositories, 8 stars, 14 followers and a 5-day longest streak" />
+
+<br/>
+
+<img width="100%" src="assets/languages.svg" alt="Languages I build with: JavaScript 69.6%, TypeScript 14.1%, HTML 9.8%, CSS 4.3%, Vue 1.1%, Python 1.1%" />
+
+<br/>
+
+<img width="100%" src="assets/monthly.svg" alt="Monthly contribution rhythm from October 2025 to October 2026, peaking at 35 in September 2026" />
+
+</div>
+
+<details>
+<summary><b>Optional: contribution snake animation</b></summary>
+
+The snake only appears after the workflow runs, so it is not embedded here until it has generated its first SVG.
+
+1. In your profile repository (`AvinashPotnuru/AvinashPotnuru`), add the workflow below.
+2. Add `.github/workflows/snake.yml` to that repository:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Run the workflow once from the **Actions** tab.
+4. Once it completes, add this below the streak card:
+
+```html
+<img src="https://raw.githubusercontent.com/AvinashPotnuru/AvinashPotnuru/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
+```
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28" /> Education
+
+**Bachelor of Technology (B.Tech) — Mechanical Engineering**
+Sri Sivani College of Engineering, India · 2012 – 2016
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28" /> Connect With Me
+
+<div align="center">
+
+<a href="https://avinashpotnuruportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-00C9A7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:potnuruavinash111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/Avinashpotnuru"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9A7&center=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+great.;Open+to+Frontend+%2F+React+Developer+opportunities." alt="Footer typing" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=140&section=footer&animation=fadeIn" width="100%" alt="Footer banner" />
+
+</div>

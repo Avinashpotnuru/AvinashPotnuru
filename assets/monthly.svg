@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 214" width="100%" role="img" aria-label="Monthly contributions, October 2025 to October 2026, peaking at 35 in Sep 2026">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset=".6" stop-color="#0D1117"/><stop offset="1" stop-color="#0A161B"/></linearGradient>
+<radialGradient id="spotg"><stop offset="0" stop-color="#00C9A7" stop-opacity=".12"/><stop offset=".55" stop-color="#38BDF8" stop-opacity=".05"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0 H0 V32" fill="none" stroke="#FFFFFF" stroke-opacity=".03" stroke-width="1"/></pattern>
+<clipPath id="panel"><rect x="0.5" y="0.5" width="999" height="213" rx="20"/></clipPath>
+<linearGradient id="barfill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2FE6C8"/><stop offset="1" stop-color="#0A9C86"/></linearGradient>
+<style>
+text { font-family: "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+.micro { fill: #00C9A7; font-size: 8px; font-weight: 700; letter-spacing: 2.2px; }
+.meta { fill: #6E7681; font-size: 8px; font-weight: 700; letter-spacing: 1.8px; }
+.rise { animation: rise .8s cubic-bezier(.22,1,.36,1) both; }
+.fade { animation: fade .9s ease-out both; }
+@keyframes rise { 0% { opacity: 0; transform: translateY(10px); } 100% { opacity: 1; transform: translateY(0); } }
+@keyframes fade { 0% { opacity: 0; } 100% { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+.gridline { animation: fade .9s ease-out both; }
+.bar { transform-box: fill-box; transform-origin: center bottom; animation: growY .9s cubic-bezier(.22,1,.36,1) both; }
+.val { fill: #8B949E; font-size: 10px; font-weight: 700; }
+.mon { fill: #6E7681; font-size: 9px; font-weight: 600; }
+@keyframes growY { 0% { transform: scaleY(0); } 100% { transform: scaleY(1); } }
+</style>
+</defs>
+<rect x="0.5" y="0.5" width="999" height="213" rx="20" fill="url(#bg)" stroke="#1E293B" stroke-width="1"/>
+<g clip-path="url(#panel)">
+<rect width="1000" height="214" fill="url(#grid)"/>
+<circle cx="820" cy="30" r="220" fill="url(#spotg)"/>
+</g>
+<g class="fade">
+<text class="micro" x="32" y="30">CONTRIBUTION RHYTHM / 13 MONTHS</text>
+<text class="meta" x="968" y="30" text-anchor="end">PEAK 35 · SEP 2026</text>
+</g>
+<line class="gridline" x1="40" y1="68" x2="960" y2="68" stroke="#141D28" stroke-width="1"/>
+<line class="gridline" x1="40" y1="118" x2="960" y2="118" stroke="#141D28" stroke-width="1"/>
+<line class="gridline" x1="40" y1="168" x2="960" y2="168" stroke="#141D28" stroke-width="1"/>
+<rect class="bar" style="animation-delay:0.1s" x="57.385" y="162.286" width="36" height="5.714" rx="5" fill="url(#barfill)" opacity="0.5"/>
+<text class="val" x="75.385" y="155.286" text-anchor="middle" opacity="0.5">2</text>
+<text class="mon" x="75.385" y="188" text-anchor="middle" fill="#6E7681" opacity="0.5">Oct</text>
+<text class="mon" x="75.385" y="200" text-anchor="middle" fill="#48505B" opacity="0.5">2025</text>
+<rect class="bar" style="animation-delay:0.16s" x="128.154" y="165" width="36" height="3" rx="5" fill="#1B2530" opacity="1"/>
+<text class="val" x="146.154" y="158" text-anchor="middle" opacity=".45">0</text>
+<text class="mon" x="146.154" y="188" text-anchor="middle" fill="#6E7681" opacity="1">Nov</text>
+<rect class="bar" style="animation-delay:0.21s" x="198.923" y="165" width="36" height="3" rx="5" fill="#1B2530" opacity="1"/>
+<text class="val" x="216.923" y="158" text-anchor="middle" opacity=".45">0</text>
+<text class="mon" x="216.923" y="188" text-anchor="middle" fill="#6E7681" opacity="1">Dec</text>
+<rect class="bar" style="animation-delay:0.26s" x="269.692" y="164" width="36" height="4" rx="5" fill="url(#barfill)" opacity="1"/>
+<text class="val" x="287.692" y="157" text-anchor="middle" opacity="1">1</text>
+<text class="mon" x="287.692" y="188" text-anchor="middle" fill="#6E7681" opacity="1">Jan</text>
+<text class="mon" x="287.692" y="200" text-anchor="middle" fill="#48505B" opacity="1">2026</text>
+<rect class="bar" style="animation-delay:0.32s" x="340.462" y="153.714" width="36" height="14.286" rx="5" fill="url(#barfill)" opacity="1"/>
+<text class="val" x="358.462" y="146.714" text-anchor="middle" opacity="1">5</text>
+<text class="mon" x="358.462" y="188" text-anchor="middle" fill="#6E7681" opacity="1">Feb</text>
+<rect class="bar" style="animation-delay:0.38s" x="411.231" y="93.714" width="36" height="74.286" rx="5" fill="url(#barfill)" opacity="1"/>
+<text class="val" x="429.231" y="86.714" text-anchor="middle" opacity="1">26</text>
+<text class="mon" x="429.231" y="188" text-anchor="middle" fill="#6E7681" opacity="1">Mar</text>
+<rect class="bar" style="animation-delay:0.43s" x="482" y="162.286" width="36" height="5.714" rx="5" fill="url(#barfill)" opacity="1"/>
+<text class="val" x="500" y="155.286" text-anchor="middle" opacity="1">2</text>
+<text class="mon" x="500" y="188" text-anchor="middle" fill="#6E7681" opacity="1">Apr</text>
+<rect class="bar" style="animation-delay:0.48s" x="552.769" y="165" width="36" height="3" rx="5" fill="#1B2530" opacity="1"/>
+<text class="val" x="570.769" y="158" text-anchor="middle" opacity=".45">0</text>
+<text class="mon" x="570.769" y="188" text-anchor="middle" fill="#6E7681" opacity="1">May</text>
+<rect class="bar" style="animation-delay:0.54s" x="623.538" y="153.714" width="36" height="14.286" rx="5" fill="url(#barfill)" opacity="1"/>
+<text class="val" x="641.538" y="146.714" text-anchor="middle" opacity="1">5</text>
+<text class="mon" x="641.538" y="188" text-anchor="middle" fill="#6E7681" opacity="1">Jun</text>
+<rect class="bar" style="animation-delay:0.6s" x="694.308" y="150.857" width="36" height="17.143" rx="5" fill="url(#barfill)" opacity="1"/>
+<text class="val" x="712.308" y="143.857" text-anchor="middle" opacity="1">6</text>
+<text class="mon" x="712.308" y="188" text-anchor="middle" fill="#6E7681" opacity="1">Jul</text>
+<rect class="bar" style="animation-delay:0.65s" x="765.077" y="99.429" width="36" height="68.571" rx="5" fill="url(#barfill)" opacity="1"/>
+<text class="val" x="783.077" y="92.429" text-anchor="middle" opacity="1">24</text>
+<text class="mon" x="783.077" y="188" text-anchor="middle" fill="#6E7681" opacity="1">Aug</text>
+<rect class="bar" style="animation-delay:0.7s" x="835.846" y="68" width="36" height="100" rx="5" fill="url(#barfill)" opacity="1"/>
+<rect x="835.846" y="68" width="36" height="100" rx="5" fill="none" stroke="#2FE6C8" stroke-opacity=".45" stroke-width="1"/>
+<text class="val" x="853.846" y="61" text-anchor="middle" opacity="1">35</text>
+<text class="mon" x="853.846" y="188" text-anchor="middle" fill="#00C9A7" opacity="1">Sep</text>
+<rect class="bar" style="animation-delay:0.76s" x="906.615" y="156.571" width="36" height="11.429" rx="5" fill="url(#barfill)" opacity="0.5"/>
+<text class="val" x="924.615" y="149.571" text-anchor="middle" opacity="0.5">4</text>
+<text class="mon" x="924.615" y="188" text-anchor="middle" fill="#6E7681" opacity="0.5">Oct</text>
+</svg>
